@@ -128,3 +128,7 @@ function shiftColor() {
   }
 }
 ```
+## Explination
+I was exploring color and it's movement across the page, as well as the tempo of B&W to color shifting. I utalized what I learned in my last assignment in generating triangles to move the colors up the page to gneerate a romaing ombre effect that looked like TV static when without color.
+
+If I were working on this composiiton more, I would like to hook it up to a heartrate if possible.
