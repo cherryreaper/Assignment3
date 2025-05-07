@@ -1,7 +1,6 @@
 # Assignment3
 
 ## Code
-https://raw.githubusercontent.com/cherryreaper/Assignment2/refs/heads/main/README.md
 
 
 ```
